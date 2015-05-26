@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44637" started-at="2015-05-26T07:29:03Z" finished-at="2015-05-26T07:29:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44637" started-at="2015-05-26T07:29:03Z" finished-at="2015-05-26T07:29:47Z">
+      <class name="com.tutorialspoint.demo.hr.model.MercuryTours">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.tutorialspoint.demo.hr.model.MercuryTours@7c2999bb]" name="OpenBrowser" is-config="true" duration-ms="8532" started-at="2015-05-26T12:59:03Z" finished-at="2015-05-26T12:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.tutorialspoint.demo.hr.model.MercuryTours@7c2999bb]" name="Test" duration-ms="34612" started-at="2015-05-26T12:59:11Z" finished-at="2015-05-26T12:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.tutorialspoint.demo.hr.model.MercuryTours@7c2999bb]" name="TearDown" is-config="true" duration-ms="1472" started-at="2015-05-26T12:59:46Z" finished-at="2015-05-26T12:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.tutorialspoint.demo.hr.model.MercuryTours -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
